@@ -13,3 +13,7 @@ Hero Section Content
 ### Header
 
 This is the header.
+
+- Home
+- Work
+- Contact
