@@ -5,3 +5,7 @@
 A paragraph added.
 
 - item one
+
+## Section Hero
+
+Hero Section Content
