@@ -1,9 +1,18 @@
-const a = 30;
+let a = 10;
 
-function test() {
-  console.log("Hello");
+function increment(val) {
+  let b = 5000;
+  return val + 1;
 }
 
-function showHeader() {
-  console.log("Header");
+function doSomething() {
+  let b = 30;
+  a = increment(a);
 }
+
+doSomething();
+
+doSomething();
+doSomething();
+
+console.log(a);
